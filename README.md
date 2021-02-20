@@ -88,3 +88,7 @@ https://www.freecodecamp.org/news/how-we-got-a-2-year-old-repo-trending-on-githu
 https://www.restapitutorial.com/httpstatuscodes.html
 
 https://www.askthepilot.com/checklists/
+
+# Further Reading
+
+https://github.com/mgreiler/code-review-checklist
