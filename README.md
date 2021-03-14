@@ -79,6 +79,8 @@ This checklist guides you through the process of forking a repository and improv
 
 # References
 
+Clean Architecture: A Craftsman's Guide to Software Structure and Design, Robert C. Martin, 2018
+
 https://codeburst.io/think-think-think-before-you-code-52890a917ffd
 
 https://www.freecodecamp.org/news/how-to-write-a-good-software-design-document-66fcf019569c/
