@@ -77,6 +77,12 @@ This checklist guides you through the process of forking a repository and improv
 
 ![Repository Checklist](images/repositoryChecklist.png "Repository Checklist")
 
+# Quick Reference Handbook
+
+This handbook guides you through the process of analyzing and fixing common errors.
+
+![Quick Reference Handbook Java](images/quickReferenceHandbookJava.png "Quick Reference Handbook Java")
+
 # References
 
 Clean Architecture: A Craftsman's Guide to Software Structure and Design, Robert C. Martin, 2018
@@ -90,6 +96,8 @@ https://www.freecodecamp.org/news/how-we-got-a-2-year-old-repo-trending-on-githu
 https://www.restapitutorial.com/httpstatuscodes.html
 
 https://www.askthepilot.com/checklists/
+
+https://www.baeldung.com/java-char-encoding
 
 # Further Reading
 
